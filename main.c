@@ -903,7 +903,7 @@ void main(void)
     
 
     lcd_gotoxy(10,10);lcd_putchar('A',YELLOW,MAGENTA); 
-    lcd_gotoxy(0,0);lcd_puts("DMF313",YELLOW,MAGENTA);lcd_putsf(".IR",YELLOW,MAGENTA); 
+    lcd_gotoxy(0,0);lcd_puts("Amin",YELLOW,MAGENTA);lcd_putsf(".Hosseini",YELLOW,MAGENTA); 
     delay_ms(2000);lcd_clear();
 
 
